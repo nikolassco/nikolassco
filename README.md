@@ -1,8 +1,9 @@
 ### Oi, eu sou o Nikolas 👋
 
+- ❤️ Pai, marido e programador
 - 🌱 Eu estou aprendendo HTML, CSS, Javascript, NodeJs, SQL
-- 💬 Pergunte sobre mim
-- 📫 Contato: scnoliveira59@gmail.com
+
+
 
 <div align="center">
   <a href="https://github.com/nikolassco">
@@ -18,7 +19,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
-
+  <div align="center" style="display: inline_block"><br>Entre em contato comigo clicando no icone que preferir</div>
 <div align="center" style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/nikolas-santa-clara-90619a16a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/nikolasoliveira96" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
