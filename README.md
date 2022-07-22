@@ -1,7 +1,7 @@
 ### Oi, eu sou o Nikolas 👋
 
 - ❤️ Pai, marido e programador
-- 🌱 Eu estou aprendendo HTML, CSS, Javascript, React, NodeJs, SQL
+- 🌱 Eu estou aprendendo HTML, CSS, Javascript, React, NodeJs, MongoDB, SQL
 
 
 
