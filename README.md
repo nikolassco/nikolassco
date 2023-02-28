@@ -2,10 +2,7 @@
 
 ### Desenvolvedor de Software Fullstack em formação na Cubos Academy | JS | React | Node | Html | CSS
 
-- ❤️ Pai, marido e programador
-- 🌱 Eu estou aprendendo HTML, CSS, Javascript, React, NodeJs, MongoDB, SQL
-
-
+<hr/>
 
 <div align="center">
   <a href="https://github.com/nikolassco">
