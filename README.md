@@ -1,6 +1,6 @@
 ## Oi, eu sou o Nikolas 👋
 
-### Desenvolvedor de Software Fullstack em formação na Cubos Academy | JS | React | Node | Html | CSS
+### Desenvolvedor de Software Fullstack | JS | React | Node | Html | CSS
 
 <hr/>
 
